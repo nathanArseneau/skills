@@ -1,0 +1,17 @@
+{
+  "name": "arseneau-marketplace",
+  "owner": {
+    "name": "Nathan Arseneau"
+  },
+  "metadata": {
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "documentation",
+      "description": "Generate and manage project documentation",
+      "version": "1.0.0",
+      "source": "./plugins/documentation"
+    }
+  ]
+}
